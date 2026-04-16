@@ -4,6 +4,6 @@
 <h2 align="center" style="color:#4CAF50;">SELAMAT DATANG DI APLIKASI SHOWROOM MOBIL!</h2>
 
 ## 👤 Profil Anggota
-| Nayla Camelia Indraswari| Indah Maramin Al Inayah  | Nanda Pesona Putri | Luthfi Daffa Purbaya | fhorhfurhfurhi |
+| Muhammad Farros Anand | Nur Aliyya  | Luthfi Daffa Purbaya | Muhammad Rifqi Jastiartha | Zyrus Alfredo Randan Malinggato |
 |-------------------------|--------------------------|--------------------|----------------------| -------------- |
-| **NIM:** 2309116009 <br> **Kelas:** Sistem Informasi A '24 <br> [![Camel] | **NIM:** 2309116086 <br> **Kelas:** Sistem Informasi C '24 <br> [![Naya] | **NIM:** 2309116101 <br> **Kelas:** Sistem Informasi C '24 <br> [![Nanda] | **NIM:** 2309116102 <br> **Kelas:** Sistem Informasi C '24 <br> [![Lutpi] | **NIM:** 2309116009 <br> **Kelas:** Sistem Informasi A '24 <br> [![Camel] |
+| **NIM:** 2309116085 <br> **Kelas:** Sistem Informasi C '24 <br> | **NIM:** 2309116094 <br> **Kelas:** Sistem Informasi C '24 <br> | **NIM:** 2309116102 <br> **Kelas:** Sistem Informasi C '24 <br> | **NIM:** 2309116117 <br> **Kelas:** Sistem Informasi C '24 <br> | **NIM:** 2309116120 <br> **Kelas:** Sistem Informasi C '24 <br> |
